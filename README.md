@@ -12,6 +12,9 @@
 <a href="https://twitter.com/ravipan79559175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravipan79559175" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ravispandey2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravispandey2002" height="30" width="40" /></a>
 <a href="https://instagram.com/ravi_98670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravi_98670" height="30" width="40" /></a>
+ <a href="https://www.codechef.com/users/ravispandey98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ravispandey98" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ravispandey_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ravispandey_2002" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ravispandey_98670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravispandey_98670" height="30" width="40" /></a>
 
 </p>
 
