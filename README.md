@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=ravip98670&label=Profile%20views&color=0e75b6&style=flat" alt="ravip98670" />
 </p>
 
-- 🔭 **I’m currently a 4th-year Computer Science and Engineering student.**  
-- 📫 **How to reach me:** ravispandey2002@gmail.com
+🔭 **I’m currently a 4th-year Computer Science and Engineering student.**  
+📫 **How to reach me:** ravispandey2002@gmail.com
 
 ---
 
